@@ -76,4 +76,4 @@
 ## Заключение
 [Итоговые мысли, выводы по работе]
 
-[](1200.jpg)
+![](https://github.com/ShlegelMamedov/-my-markdown-report/blob/main/images/1200.jpg?raw=true)
